@@ -1,7 +1,7 @@
 "# pagination_codeigniter" 
 
 
-Pagination in CodeIgniter PHP MySQL with Bootstrap CSS Tutorial 
+Pagination in CodeIgniter ( PHP MySQL ) with Bootstrap CSS Tutorial 
 =================================================================
 
 CodeIgniter’s Pagination class is very easy to use, and it is 100% customizable, either dynamically or via stored preferences.
