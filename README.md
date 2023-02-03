@@ -15,9 +15,8 @@ per_page The number of items you intend to show per page. In the above example, 
 The create_links method returns an empty string when there is no pagination to show.
 
 
-Youtube Tutorial : https://youtu.be/GufGZ0-qVmU
+Youtube Tutorial : https://youtu.be/AmfUpAMs7N8
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
